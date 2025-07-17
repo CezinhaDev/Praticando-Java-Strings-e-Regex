@@ -1,61 +1,59 @@
-## 💻 Estudos de Java — Métodos de String
 
+💻 Estudo de Métodos de String em Java
 Este repositório reúne exercícios simples e práticos desenvolvidos por mim durante meus estudos de Java, com foco na utilização dos principais métodos da classe String.
 
 Os exemplos abordam situações comuns do dia a dia e ajudam a fixar o conhecimento sobre manipulação de textos em Java.
 
----
+🧪 Métodos praticados
+✅ toLowerCase() – Converte a string para letras minúsculas
 
-### 🧪 Métodos praticados
+✅ toUpperCase() – Converte a string para letras maiúsculas
 
-- ✅ `toLowerCase()` – Converte a string para letras minúsculas  
-- ✅ `toUpperCase()` – Converte a string para letras maiúsculas  
-- ✅ `replace()` – Substitui partes da string por outro conteúdo  
-- ✅ `charAt()` – Retorna o caractere de uma posição específica  
-- ✅ `substring()` – Retorna um trecho da string com base em posições  
-- ✅ `contains()` – Verifica se a string contém uma palavra-chave  
-- ✅ `startsWith()` – Verifica se a string começa com determinado texto  
-- ✅ `endsWith()` – Verifica se a string termina com determinado texto  
-- ✅ `equals()` – Compara se duas strings são exatamente iguais  
-- ✅ `lastIndexOf()` – Encontra a última ocorrência de um caractere ou trecho  
+✅ replace() – Substitui partes da string por outro conteúdo
 
----
+✅ charAt() – Retorna o caractere de uma posição específica
 
-### 📚 Exercícios realizados
+✅ substring() – Retorna um trecho da string com base em posições
 
-- 🔤 Converter nome para maiúsculas e minúsculas  
-- 📝 Substituir palavras em uma frase com `replace()`  
-- 🔎 Mostrar o primeiro e o último caractere de uma palavra  
-- ✂️ Obter apenas o primeiro nome usando `substring()`  
-- ❓ Verificar se uma frase contém a palavra "Java"  
-- 📧 Validar se um e-mail começa com "admin" e termina com ".com"  
-- 🔐 Comparar senhas e localizar a última letra 'a' em uma palavra  
+✅ contains() – Verifica se a string contém uma palavra-chave
 
----
+✅ startsWith() – Verifica se a string começa com determinado texto
 
-### 🚀 Tecnologias utilizadas
+✅ endsWith() – Verifica se a string termina com determinado texto
 
-- ☕ Linguagem: Java  
-- 🧠 IDEs: Visual Studio Code ou Eclipse  
-- 🧰 JDK: Versão 17 ou superior  
+✅ equals() – Compara se duas strings são exatamente iguais
 
----
+✅ lastIndexOf() – Encontra a última ocorrência de um caractere ou trecho
 
-### 🎯 Objetivo do projeto
+📚 Exercícios realizados
+🔤 Converter nome para maiúsculas e minúsculas
 
+📝 Substituir palavras em uma frase com replace()
+
+🔎 Mostrar o primeiro e o último caractere de uma palavra
+
+✂️ Obter apenas o primeiro nome usando substring()
+
+❓ Verificar se uma frase contém a palavra "Java"
+
+📧 Validar se um e-mail começa com "admin" e termina com ".com"
+
+🔐 Comparar senhas e localizar a última letra 'a' em uma palavra
+
+🚀 Tecnologias utilizadas
+☕ Linguagem: Java
+
+🧠 IDEs: Visual Studio Code ou Eclipse
+
+🧰 JDK: Versão 17 ou superior
+
+🎯 Objetivo do projeto
 O objetivo deste projeto é praticar e reforçar os conhecimentos em manipulação de strings em Java, com foco em:
 
-- Leitura e entrada de dados com Scanner  
-- Transformações de texto  
-- Validações e comparações de conteúdo  
+Leitura e entrada de dados com Scanner
+
+Transformações de texto
+
+Validações e comparações de conteúdo
 
 Ideal para quem está começando e quer entender melhor como as strings funcionam na prática!
-
----
-
-### 💡 Exemplo de uso no terminal
-
-```bash
-Digite seu nome: Cesar  
-Nome em minúsculas: cesar  
-Nome em maiúsculas: CESAR
