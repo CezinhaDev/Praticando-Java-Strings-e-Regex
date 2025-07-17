@@ -1,7 +1,7 @@
 💻 Estudo de Métodos de String em Java
 Este repositório reúne exercícios simples e práticos desenvolvidos por mim durante meus estudos de Java, com foco na utilização dos principais métodos da classe String.
 
-Os exemplos abordam situações comuns do dia a dia e ajudam a fixar o conhecimento na manipulação de textos em Java.
+Os exemplos abordam situações comuns do dia a dia e ajudam a fixar o conhecimento sobre manipulação de textos em Java.
 
 🧪 Métodos Praticados
 🔡 toLowerCase() – Converte a string para letras minúsculas
@@ -29,7 +29,7 @@ Os exemplos abordam situações comuns do dia a dia e ajudam a fixar o conhecime
 
 ✅ Substituir palavras em uma frase com replace()
 
-✅ Mostrar primeiro e último caractere de uma palavra
+✅ Mostrar o primeiro e o último caractere de uma palavra
 
 ✅ Obter apenas o primeiro nome usando substring()
 
@@ -40,11 +40,11 @@ Os exemplos abordam situações comuns do dia a dia e ajudam a fixar o conhecime
 ✅ Comparar senhas e localizar a última letra 'a' em uma palavra
 
 🚀 Tecnologias Utilizadas
-☕ Java
+☕ Linguagem: Java
 
 🧠 IDEs: Visual Studio Code ou Eclipse
 
-🧰 JDK: versão 17 ou superior
+🧰 JDK: Versão 17 ou superior
 
 🎯 Objetivo
 O objetivo deste projeto é praticar e reforçar os conhecimentos em manipulação de strings em Java, com foco em:
@@ -61,9 +61,11 @@ Ideal para quem está começando e quer entender melhor como strings funcionam n
 bash
 Copiar
 Editar
-Digite seu nome: Cesar
-Nome em minúsculas: cesar
+Digite seu nome: Cesar  
+Nome em minúsculas: cesar  
 Nome em maiúsculas: CESAR
 📌 Status
 🟢 Projeto em andamento — novos exercícios podem ser adicionados com o tempo.
+
 Sinta-se à vontade para clonar, testar, sugerir melhorias ou dar uma estrela ⭐️!
+
