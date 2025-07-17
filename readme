@@ -1,52 +1,35 @@
-💻 Estudo de Métodos de String em Java
+💻 ESTUDO DE MÉTODOS DE STRING EM JAVA
 Este repositório reúne exercícios simples e práticos desenvolvidos por mim durante meus estudos de Java, com foco na utilização dos principais métodos da classe String.
 
 Os exemplos abordam situações comuns do dia a dia e ajudam a fixar o conhecimento sobre manipulação de textos em Java.
 
-🧪 Métodos Praticados
+🧪 MÉTODOS PRATICADOS
 🔡 toLowerCase() – Converte a string para letras minúsculas
-
 🔠 toUpperCase() – Converte a string para letras maiúsculas
-
 🔁 replace() – Substitui partes da string por outro conteúdo
-
 🔎 charAt() – Retorna o caractere de uma posição específica
-
 ✂️ substring() – Retorna um trecho da string com base em posições
-
 ✅ contains() – Verifica se a string contém uma palavra-chave
-
 🔛 startsWith() – Verifica se a string começa com determinado texto
-
 🔚 endsWith() – Verifica se a string termina com determinado texto
-
 🔁 equals() – Compara se duas strings são exatamente iguais
-
 🔍 lastIndexOf() – Encontra a última ocorrência de um caractere ou trecho
 
-📚 Exercícios
+📚 EXERCÍCIOS REALIZADOS
 ✅ Converter nome para maiúsculas e minúsculas
-
 ✅ Substituir palavras em uma frase com replace()
-
 ✅ Mostrar o primeiro e o último caractere de uma palavra
-
 ✅ Obter apenas o primeiro nome usando substring()
-
 ✅ Verificar se uma frase contém a palavra "Java"
-
 ✅ Validar se um e-mail começa com "admin" e termina com ".com"
-
 ✅ Comparar senhas e localizar a última letra 'a' em uma palavra
 
-🚀 Tecnologias Utilizadas
+🚀 TECNOLOGIAS UTILIZADAS
 ☕ Linguagem: Java
-
 🧠 IDEs: Visual Studio Code ou Eclipse
-
 🧰 JDK: Versão 17 ou superior
 
-🎯 Objetivo
+🎯 OBJETIVO DO PROJETO
 O objetivo deste projeto é praticar e reforçar os conhecimentos em manipulação de strings em Java, com foco em:
 
 Leitura e entrada de dados com Scanner
@@ -55,17 +38,14 @@ Transformações de texto
 
 Validações e comparações de conteúdo
 
-Ideal para quem está começando e quer entender melhor como strings funcionam na prática!
+Este projeto é ideal para quem está começando na linguagem e quer entender melhor como as strings funcionam na prática.
 
-💡 Exemplo de uso no terminal
-bash
-Copiar
-Editar
-Digite seu nome: Cesar  
-Nome em minúsculas: cesar  
+💡 EXEMPLO DE USO NO TERMINAL
+Digite seu nome: Cesar
+Nome em minúsculas: cesar
 Nome em maiúsculas: CESAR
-📌 Status
+
+📌 STATUS DO PROJETO
 🟢 Projeto em andamento — novos exercícios podem ser adicionados com o tempo.
 
-Sinta-se à vontade para clonar, testar, sugerir melhorias ou dar uma estrela ⭐️!
-
+Sinta-se à vontade para clonar, testar, sugerir melhorias ou deixar uma estrela ⭐️!
